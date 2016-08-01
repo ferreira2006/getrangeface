@@ -31,7 +31,7 @@ set certificate_file =~/.mutt/certificates
 set smtp_url = "smtps://EMAIL@smtp.gmail.com:465/"
 set smtp_pass = "SENHA"
 set move = no set imap_keepalive = 900
----
+
 
 ---
 Agendamento no CRON
